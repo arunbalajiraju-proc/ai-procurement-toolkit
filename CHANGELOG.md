@@ -4,6 +4,15 @@ All notable changes to this project are recorded here.
 
 This project uses semantic versioning. Tools are released alongside the Procuring AI post series, so minor versions generally correspond to a new tool.
 
+## [0.2.0]
+
+### Added
+
+- `calculators/token-cost-calculator.xlsx`. Sizes an AI workload from
+  transactions and token counts. Models input, output, and reasoning
+  meters separately, with cache, batch, and residency levers, a lever
+  comparison, and volume sensitivity.
+
 ## [0.1.0]
 
 Initial release.
