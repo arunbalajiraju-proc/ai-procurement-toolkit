@@ -4,6 +4,15 @@ All notable changes to this project are recorded here.
 
 This project uses semantic versioning. Tools are released alongside the Procuring AI post series, so minor versions generally correspond to a new tool.
 
+## [0.3.0]
+
+### Added
+
+- `skills/model-routing-skill.md`. Classifies AI workloads to the
+  cheapest viable model tier, applies risk adjustments for review
+  posture and decision impact, sizes the cost difference against a
+  vendor's recommendation, and produces the questions to send back.
+
 ## [0.2.0]
 
 ### Added
