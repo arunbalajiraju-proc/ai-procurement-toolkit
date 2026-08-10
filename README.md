@@ -28,7 +28,7 @@ Tools are released alongside the Procuring AI post series. This table is updated
 | 1 | AI does not procure like software | `ai-buy-routing-diagnostic.md` | Skill | Released |
 | 2 | The token bill in plain English | `token-cost-calculator.xlsx` | Calculator | Released |
 | 3 | Architecture beats the discount | `model-routing-skill.md` | Skill | Released |
-| 4 | Inference is a bill, training is an annuity | `finetune-vs-rag-skill.md` | Skill | Planned |
+| 4 | Inference is a bill, training is an annuity | `finetune-vs-rag-skill.md` | Skill | Released |
 | 5 | The six data rights vendors hope you skip | `vendor-terms-review-skill.md` | Skill | Planned |
 | 6 | Reserved capacity, and where budgets die | `reserved-vs-consumption-calculator.xlsx` | Calculator | Planned |
 | 7 | Your software contract has holes | `ai-contract-gap-review-skill.md` | Skill | Planned |
