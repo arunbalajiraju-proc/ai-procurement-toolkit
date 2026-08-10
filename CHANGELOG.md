@@ -4,6 +4,15 @@ All notable changes to this project are recorded here.
 
 This project uses semantic versioning. Tools are released alongside the Procuring AI post series, so minor versions generally correspond to a new tool.
 
+## [0.4.0]
+
+### Added
+
+- `skills/finetune-vs-rag-skill.md`. Tests whether a proposed fine tune
+  is justified against a retrieval baseline, sizes the full thirty six
+  month cost including hosting and retraining, and identifies what the
+  vendor's quote left out.
+
 ## [0.3.0]
 
 ### Added
