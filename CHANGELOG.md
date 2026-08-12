@@ -4,6 +4,15 @@ All notable changes to this project are recorded here.
 
 This project uses semantic versioning. Tools are released alongside the Procuring AI post series, so minor versions generally correspond to a new tool.
 
+## [0.5.0]
+
+### Added
+
+- `skills/vendor-terms-review-skill.md`. Reviews AI vendor terms against
+  the six data rights, separates binding commitments from policy
+  statements, tests indemnity conditions against the customer's actual
+  workflow, and produces prioritized redline asks.
+
 ## [0.4.0]
 
 ### Added
