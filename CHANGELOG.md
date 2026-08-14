@@ -4,6 +4,15 @@ All notable changes to this project are recorded here.
 
 This project uses semantic versioning. Tools are released alongside the Procuring AI post series, so minor versions generally correspond to a new tool.
 
+## [0.6.0]
+
+### Added
+
+- `calculators/reserved-vs-consumption-calculator.xlsx`. Works out the
+  break even utilization for reserved AI capacity, the cost of unused
+  commitment over the term, and a readiness check that recommends
+  consumption pricing where production telemetry is insufficient.
+
 ## [0.5.0]
 
 ### Added
